@@ -1,0 +1,99 @@
+[
+    {
+        "module": "Fill", 
+        "size": {
+            ".data": 10, 
+            ".bss": 2544, 
+            ".text": 223
+        }
+    }, 
+    {
+        "module": "Misc", 
+        "size": {
+            ".data": 2480, 
+            ".bss": 2029, 
+            ".text": 52421
+        }
+    }, 
+    {
+        "module": "drivers", 
+        "size": {
+            ".data": 0, 
+            ".bss": 32, 
+            ".text": 729
+        }
+    }, 
+    {
+        "module": "features/FEATURE_LWIP", 
+        "size": {
+            ".data": 81, 
+            ".bss": 45724, 
+            ".text": 37539
+        }
+    }, 
+    {
+        "module": "features/netsocket", 
+        "size": {
+            ".data": 85, 
+            ".bss": 60, 
+            ".text": 5057
+        }
+    }, 
+    {
+        "module": "features/storage", 
+        "size": {
+            ".data": 0, 
+            ".bss": 184, 
+            ".text": 42
+        }
+    }, 
+    {
+        "module": "hal", 
+        "size": {
+            ".data": 0, 
+            ".bss": 8, 
+            ".text": 432
+        }
+    }, 
+    {
+        "module": "platform", 
+        "size": {
+            ".data": 4, 
+            ".bss": 269, 
+            ".text": 1329
+        }
+    }, 
+    {
+        "module": "rtos", 
+        "size": {
+            ".data": 4, 
+            ".bss": 4, 
+            ".text": 931
+        }
+    }, 
+    {
+        "module": "rtos/rtx", 
+        "size": {
+            ".data": 20, 
+            ".bss": 6870, 
+            ".text": 7039
+        }
+    }, 
+    {
+        "module": "targets/TARGET_Freescale", 
+        "size": {
+            ".data": 12, 
+            ".bss": 384, 
+            ".text": 13656
+        }
+    }, 
+    {
+        "summary": {
+            "total_flash": 123134, 
+            "static_ram": 60804, 
+            "stack": 0, 
+            "heap": 24580, 
+            "total_ram": 85384
+        }
+    }
+]
